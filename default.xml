@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch=".." />
+  <remote name="origin" fetch="https://github.com/" />
   <default revision="main" remote="origin" />
   
-  <project path="repo1" name="project1" remote="origin" />
-  <project path="repo2" name="project2" remote="origin" />
+  <project path="learngit" name="pdj5/learngit.git" remote="origin" />
+  <project path="learnrepo" name="pdj5/learnrepo.git" remote="origin" />
   <!-- Add more project entries as needed -->
 </manifest>
